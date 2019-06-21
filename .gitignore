@@ -1,0 +1,22 @@
+###  CARPETAS  ###
+/ACImagenes/
+/BootstrapAlert/
+/bxslider/
+/Captcha/
+/cbb/
+/CDImagenes/
+/CDReportesPDF/
+/ChartSentinel/
+/chatZopim/
+/CKEditor/
+
+### ARCHIVOS ###
+*.cs
+*.rsp
+*.exe
+*.xlsx
+*.xlsm
+*.txt
+*.exe.config
+*.gen
+*.js
