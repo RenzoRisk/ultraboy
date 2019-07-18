@@ -16,7 +16,6 @@
 *.exe
 *.xlsx
 *.xlsm
-*.txt
 *.exe.config
 *.gen
 *.js
